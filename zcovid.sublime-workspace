@@ -1,0 +1,1017 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"buc",
+				"buck_csv"
+			],
+			[
+				"summ",
+				"summary_temp\tstatement"
+			],
+			[
+				"path_sn",
+				"path_snips_xlsx\tstatement"
+			],
+			[
+				"pathsn",
+				"path_snips_xlsx\tstatement"
+			],
+			[
+				"path",
+				"path_snips"
+			],
+			[
+				"path_s",
+				"path_snips_df\tstatement"
+			],
+			[
+				"pat",
+				"path_snips\tstatement"
+			],
+			[
+				"pa",
+				"path_snips\tstatement"
+			],
+			[
+				"paths",
+				"paths_dict\tstatement"
+			],
+			[
+				"A",
+				"AttributeError\tclass"
+			],
+			[
+				"ex",
+				"exc_kwargs"
+			],
+			[
+				"repr_",
+				"repr_join\tstatement"
+			],
+			[
+				"rep",
+				"repr_fmt"
+			],
+			[
+				"cnc",
+				"cncto_xlsx"
+			],
+			[
+				"pri",
+				"print_temp\tstatement"
+			],
+			[
+				"run",
+				"runtime_per_scan\tstatement"
+			],
+			[
+				"ru",
+				"runtime_per_scan\tstatement"
+			],
+			[
+				"LO",
+				"LOG_SCAN_RE\tstatement"
+			],
+			[
+				"read_",
+				"read_text\tfunction"
+			],
+			[
+				"stem",
+				"stem_dir\tstatement"
+			],
+			[
+				"st",
+				"stem_num"
+			],
+			[
+				"dex_re",
+				"dex_req_url\tstatement"
+			],
+			[
+				"AIR",
+				"AIRTABLE_API_KEY\tstatement"
+			],
+			[
+				"dex_req",
+				"dex_req_params\tstatement"
+			],
+			[
+				"dex_",
+				"dex_req_url\tstatement"
+			],
+			[
+				"AI",
+				"AIRTABLE_BASE_URL\tstatement"
+			],
+			[
+				"siz",
+				"size_path_output\tparam"
+			],
+			[
+				"child",
+				"child_size"
+			],
+			[
+				"max",
+				"max_depth\tparam"
+			],
+			[
+				"ma",
+				"max_depth\tparam"
+			],
+			[
+				"line",
+				"line_data\tstatement"
+			],
+			[
+				"set",
+				"setattr\tfunction"
+			],
+			[
+				"dat",
+				"date__uts"
+			],
+			[
+				"al",
+				"all_tracks_json_gz"
+			],
+			[
+				"I_L",
+				"I_L_o\tstatement"
+			],
+			[
+				"I_N",
+				"I_Na_o\tstatement"
+			],
+			[
+				"I_K",
+				"I_K_o\tstatement"
+			],
+			[
+				"reor",
+				"reordered_files"
+			],
+			[
+				"same_sum",
+				"same_sumsha256"
+			],
+			[
+				"same_su",
+				"same_sumsha1"
+			],
+			[
+				"su",
+				"sumsha1"
+			],
+			[
+				"same",
+				"same_size"
+			],
+			[
+				"fil",
+				"file_counter"
+			],
+			[
+				"juli",
+				"julian_to_datetime\tfunction"
+			],
+			[
+				"print",
+				"printvar\tfunction"
+			],
+			[
+				"spee",
+				"speedtest"
+			],
+			[
+				"wifi",
+				"wifi_network_name"
+			],
+			[
+				"init_t",
+				"init_timezone"
+			],
+			[
+				"relp",
+				"relpath"
+			],
+			[
+				"glob",
+				"globus_tree\tstatement"
+			],
+			[
+				"globus",
+				"globus_tree\tstatement"
+			],
+			[
+				"glbou",
+				"globus_keys\tstatement"
+			],
+			[
+				"rel",
+				"relative_to"
+			],
+			[
+				"globu",
+				"globus_data\tstatement"
+			],
+			[
+				"LINK",
+				"LINK_ROOT"
+			],
+			[
+				"ORIG",
+				"ORIG_DATA_RDS"
+			],
+			[
+				"n_",
+				"n_files"
+			],
+			[
+				"pre",
+				"pretty_sizes_input"
+			],
+			[
+				"size",
+				"size_files"
+			],
+			[
+				"mut",
+				"mutant_code"
+			],
+			[
+				"data",
+				"data_rds"
+			],
+			[
+				"might",
+				"midnight"
+			],
+			[
+				"as",
+				"astronomical"
+			],
+			[
+				"dawn_ci",
+				"dawn_civ_length"
+			],
+			[
+				"fr",
+				"fromtimestamp\tfunction"
+			],
+			[
+				"J_",
+				"J_transit\tstatement"
+			],
+			[
+				"del",
+				"delta\tstatement"
+			],
+			[
+				"lam",
+				"lambda_\tstatement"
+			],
+			[
+				"julian",
+				"julian_day\tstatement"
+			],
+			[
+				"tz",
+				"tzwhere\tclass"
+			],
+			[
+				"elv_re",
+				"elv_req_json\tstatement"
+			],
+			[
+				"loc_l",
+				"loc_lng\tstatement"
+			],
+			[
+				"libr",
+				"library_txt"
+			],
+			[
+				"boo",
+				"book_raw\tstatement"
+			],
+			[
+				"book_",
+				"book_raw"
+			],
+			[
+				"li",
+				"library_raw\tstatement"
+			],
+			[
+				"rea",
+				"read_text\tfunction"
+			],
+			[
+				"lib",
+				"library_raw"
+			],
+			[
+				"COEF",
+				"coef_width\tstatement"
+			],
+			[
+				"coe",
+				"coef_width"
+			],
+			[
+				"lon",
+				"long_pref"
+			],
+			[
+				"coef",
+				"coef_width\tstatement"
+			],
+			[
+				"retu",
+				"return_tuple\tparam"
+			],
+			[
+				"bin",
+				"bin_pref\tparam"
+			],
+			[
+				"rou",
+				"router_ip_address\tstatement"
+			],
+			[
+				"flat",
+				"flat_speeds\tstatement"
+			],
+			[
+				"fla",
+				"flat_speed\tstatement"
+			],
+			[
+				"flatt",
+				"flatten_dict\tfunction"
+			],
+			[
+				"en",
+				"entry\tstatement"
+			],
+			[
+				"ent",
+				"entry_raw\tstatement"
+			],
+			[
+				"appe",
+				"append_answer\tstatement"
+			],
+			[
+				"app",
+				"append_answer\tstatement"
+			],
+			[
+				"value",
+				"value_list\tstatement"
+			],
+			[
+				"wri",
+				"write_text\tfunction"
+			],
+			[
+				"ha",
+				"hardware_data_raw"
+			],
+			[
+				"hard",
+				"hardware_data"
+			],
+			[
+				"std",
+				"stderr\tparam"
+			],
+			[
+				"date",
+				"datetime\tclass"
+			],
+			[
+				"spe",
+				"speed_out\tstatement"
+			],
+			[
+				"sp",
+				"speedtest_proc\tstatement"
+			],
+			[
+				"pair",
+				"pairdist_bin"
+			],
+			[
+				"wi",
+				"with_suffix"
+			],
+			[
+				"sel",
+				"sel_resis"
+			],
+			[
+				"ref",
+				"ref_resis"
+			],
+			[
+				"line_",
+				"line_len"
+			],
+			[
+				"da",
+				"data_array"
+			],
+			[
+				"line_b",
+				"line_bytes"
+			],
+			[
+				"l",
+				"line_list"
+			],
+			[
+				"ar",
+				"array_count"
+			],
+			[
+				"dir_",
+				"dir_num_fmtd"
+			],
+			[
+				"nm",
+				"name_primary"
+			],
+			[
+				"scrip",
+				"scripts_dir"
+			],
+			[
+				"pyt",
+				"python_bin"
+			],
+			[
+				"prot",
+				"prot_psf"
+			],
+			[
+				"for",
+				"foreach\tforeach..."
+			],
+			[
+				"fo",
+				"forin\tfor … in … done"
+			],
+			[
+				"rgb",
+				"rgb_triple"
+			],
+			[
+				"adj_",
+				"adj_rgb_triple_norm"
+			],
+			[
+				"ad",
+				"adj_hsv_triple_norm"
+			],
+			[
+				"rg",
+				"rgb_hex"
+			],
+			[
+				"nor",
+				"norm_hue"
+			],
+			[
+				"rgb_",
+				"rgb_hex"
+			],
+			[
+				"hsl",
+				"hsluv_triple"
+			],
+			[
+				"hsluv",
+				"hsluv_triple"
+			],
+			[
+				"html",
+				"html_path"
+			],
+			[
+				"check",
+				"check_paths"
+			],
+			[
+				"gm",
+				"gmx_midrun_exts"
+			],
+			[
+				"nsec",
+				"nsec_per_day"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"comp",
+				"Diffy Compare"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"matl",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"marko",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"repl she",
+				"SublimeREPL: Shell"
+			],
+			[
+				"copy pa",
+				"File: Copy Path Quoted"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python"
+			],
+			[
+				"herme",
+				"Hermes: List Kernels"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"revea",
+				"File: Reveal"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"bash",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"repl pyt",
+				"SublimeREPL: Python"
+			],
+			[
+				"repl py",
+				"SublimeREPL: Python - Sublime Text Console"
+			],
+			[
+				"err",
+				"Anaconda: Show error list"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"Matlab",
+				"SublimeREPL: Matlab"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Equation"
+			],
+			[
+				"rnam",
+				"Rename File"
+			],
+			[
+				"mov",
+				"File: Move"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"lint",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"disable lin",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"matla",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"shell",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Set Syntax: Git Ignore"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"anaconda",
+				"Anaconda: Show error list"
+			],
+			[
+				"tcl",
+				"Set Syntax: Tcl"
+			],
+			[
+				"rep",
+				"SublimeREPL: Python"
+			],
+			[
+				"enable lin",
+				"Anaconda: Enable linting on this file"
+			],
+			[
+				"anacon",
+				"Anaconda: Show error list"
+			],
+			[
+				"shel",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sytax JS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"anac",
+				"Anaconda: Display object docs"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 506.0
+	},
+	"console":
+	{
+		"height": 148.0,
+		"history":
+		[
+			"sublime.log_commands(True)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/zarek/Dropbox/code/github/covid19"
+	],
+	"file_history":
+	[
+		"/Users/zarek/Dropbox/code/python/zaux/.gitignore",
+		"/Users/zarek/Desktop/jupyter_ssh.sh",
+		"/Users/zarek/Dropbox/ucsd/halg/dunhalg_vnc_20200311.20200402_version.txt",
+		"/Users/zarek/Dropbox/code/github/zcovid/list_.sh",
+		"/Users/zarek/Dropbox/code/github/zcovid/list_.py",
+		"/Users/zarek/Dropbox/ucsd/ta/bipn162/bipn162_github/FinalProjectsWI20/README.md",
+		"/Users/zarek/Dropbox/ucsd/ta/bipn162/bipn162_github/FinalProjectsWI20/.gitignore",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/1ed8f34a-68e3-4d27-b2b4-62f3a1647233/bazhlab/zsiegel/for_Alma/heatmaps_20200312_refactored.m",
+		"/Users/zarek/Dropbox/code/github/zauxpy/zauxpy/formatting/sinum.py",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/1ed8f34a-68e3-4d27-b2b4-62f3a1647233/bazhlab/zsiegel/for_Alma/main3_5col_20200206.cpp",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/1ed8f34a-68e3-4d27-b2b4-62f3a1647233/bazhlab/zsiegel/for_Alma/run_main3_5col_20200213.sh",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/1ed8f34a-68e3-4d27-b2b4-62f3a1647233/bazhlab/zsiegel/for_Alma/plot_5col_20200124.py",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/1ed8f34a-68e3-4d27-b2b4-62f3a1647233/bazhlab/zsiegel/for_Alma/plots_20200124/spikes_5col3_connected_cauchy_20200124_BCoff_02.spike_trace_all_cols.PY5.png",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/1ed8f34a-68e3-4d27-b2b4-62f3a1647233/bazhlab/zsiegel/for_Alma/plots_20200124/spikes_5col3_connected_cauchy_20200124_allon_01.spike_trace_compare.PY4_col05.png",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/1ed8f34a-68e3-4d27-b2b4-62f3a1647233/bazhlab/zsiegel/for_Alma/plots_20200124/spikes_5col3_connected_cauchy_20200124_allon_01.all_traces_heatmaps.png",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/1ed8f34a-68e3-4d27-b2b4-62f3a1647233/bazhlab/zsiegel/for_Alma/run_main3_5col_20200213.sh.20200213T130504-0800.log",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/1ed8f34a-68e3-4d27-b2b4-62f3a1647233/bazhlab/zsiegel/for_Alma/plots_20200320/spikes_5col3_connected_cauchy_20200124_allon_01.all_traces_heatmaps.png",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/1ed8f34a-68e3-4d27-b2b4-62f3a1647233/bazhlab/zsiegel/for_Alma/plots_20200320/spikes_5col3_connected_cauchy_20200124_allon_01.all_spikes_scatters.png",
+		"/Users/zarek/.ssh/authorized_keys",
+		"/Users/zarek/Desktop/sublime_hermes_helium_installation_msg_20200306.md",
+		"/Users/zarek/Dropbox/ucsd/minorprop/minor_prop_outline.mmd",
+		"/Users/zarek/Desktop/blah.md",
+		"/Users/zarek/Downloads/plot_zarek_20200214_.py",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/f42d7d47-751e-4fd6-bdbd-127d737b19d2/home/zsiegel/python/plot_zarek_20200214.ipynb.py",
+		"/Users/zarek/Dropbox/code/github/testy/greetings.txt",
+		"/Users/zarek/Dropbox/code/github/aproject/text.txt",
+		"/Users/zarek/Desktop/github_basics.sh",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/f42d7d47-751e-4fd6-bdbd-127d737b19d2/home/zsiegel/python/plot_zarek_20200214.ipynb",
+		"/Users/zarek/Dropbox/ucsd/ta/bipn162/mail_feedback_20200207.sh",
+		"/Users/zarek/Desktop/config.txt",
+		"/Users/zarek/Desktop/config.cpp",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/1ed8f34a-68e3-4d27-b2b4-62f3a1647233/bazhlab/zsiegel/for_Alma/main3_5col_20200204.cpp",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/1ed8f34a-68e3-4d27-b2b4-62f3a1647233/bazhlab/zsiegel/for_Alma/main3_5col_20200129.cpp",
+		"/Users/zarek/Desktop/stim_saline_params_20191029_1323.csv",
+		"/Users/zarek/Desktop/wordplay_20191112_1519_PST.py",
+		"/Users/zarek/Dropbox/ucsd/bazh/fAH_paper/for_Alma_scripts_20200110_1545/main3_5col.cpp",
+		"/Users/zarek/Dropbox/ucsd/bazh/fAH_paper/for_Alma_scripts_20200110_1545/source/main.cpp",
+		"/Users/zarek/Desktop/test5.py",
+		"/Users/zarek/Dropbox/code/python/zaux/zaux/logz/zPrinter.py",
+		"/Users/zarek/Dropbox/code/python/zaux/zaux/formatz/char_codes.yaml",
+		"/Users/zarek/Dropbox/code/github/advanced-google-maps-alfred-workflow/README.md",
+		"/Users/zarek/Desktop/test.docx.md",
+		"/Users/zarek/Dropbox/ucsd/fellow/grfp/stim_proposal_from_EH/EHv18a.enl",
+		"/Users/zarek/Dropbox/ucsd/fellow/grfp/grfp_proposal_summary",
+		"/Users/zarek/_IN_/spotify-backup/spotify-backup.py",
+		"/Users/zarek/Downloads/gibberish generator.py",
+		"/Users/zarek/Dropbox/ucsd/misc/seminar_speakers_2019-20.py",
+		"/Users/zarek/Dropbox/code/python/connectograph.py",
+		"/Users/zarek/Dropbox/app-data/Sublime/themes/scratch-1.9.tmTheme",
+		"/Users/zarek/Desktop/test.cpp",
+		"/Users/zarek/Downloads/test_20190628_1302_PDT.xml",
+		"/Users/zarek/Dropbox/notes/2019-07-31 13.59.45.mmd",
+		"/Volumes/[C] Windows 10/Users/zarek/Desktop/IntanStimRecordControllerWithButtons/2.xml",
+		"/Users/zarek/Dropbox/notes/entry_template.mmd",
+		"/Users/zarek/Desktop/[app] {↵} → finder².kmmacros",
+		"/Users/zarek/Desktop/testcpp/main.cpp",
+		"/Users/zarek/Desktop/paths_20190712.py",
+		"/Users/zarek/Desktop/test.hpp",
+		"/Users/zarek/Dropbox/notes/2019-06-02 10.01.52.mmd",
+		"/Users/zarek/Dropbox/notes/2019-06-24 18.28.15.mmd",
+		"/Users/zarek/Dropbox/notes/2019-06-24 11.18.06.mmd",
+		"/Users/zarek/Dropbox/code/python/zlfm_20190619/zlfm_20190209.py",
+		"/Users/zarek/Dropbox/code/python/speedtestin.py",
+		"/Users/zarek/Desktop/scratch_f259_20190604.sh",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/0c909922-3669-425f-a211-02c783b22b1f/athena/mllab/store/zss2002/derek_leu_qsite_205-5/qsite_slurm.01.sh",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/0c909922-3669-425f-a211-02c783b22b1f/athena/mllab/store/zss2002/check_qsites.py",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/0c909922-3669-425f-a211-02c783b22b1f/athena/mllab/store/zss2002/extract_qsite_log.py",
+		"/Users/zarek/Dropbox/code/python/zlfm_20190208/zlfm_20190209.py",
+		"/Users/zarek/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/zarek/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/0c909922-3669-425f-a211-02c783b22b1f/athena/mllab/store/zss2002/derek_leu_val_qsite_106-5/leu_val-qsite_106-5.01.in",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/0c909922-3669-425f-a211-02c783b22b1f/athena/mllab/store/zss2002/derek_leu_qsite_106-5/leu-qsite_106-5.out",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/0c909922-3669-425f-a211-02c783b22b1f/athena/mllab/store/zss2002/qsites_status_20190604_1528_PDT.log",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/0c909922-3669-425f-a211-02c783b22b1f/athena/mllab/store/zss2002/qsites_status_20190604.log",
+		"/Users/zarek/Dropbox/ucsd/classes/spring_2019/Signal_Processing/data/figures/REINOFF-triggered_mean_theta.air_2676-1600-4.svg",
+		"/Users/zarek/Desktop/wesmag_classnotes_20160531.txt",
+		"/Users/zarek/Dropbox/ucsd/classes/spring_2019/Signal_Processing/data/recording_data_structure.md",
+		"/Users/zarek/.Trash/leu_apo-qsite_101-1 23-53-55-805.in",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/f267f29e-5b59-4755-a7ae-51a0fc2b05d1/athena/mllab/store/zss2002/leut-f259/leu_apo-qsite/qsite-files/leu_apo-qsite_101-1.in",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/0c909922-3669-425f-a211-02c783b22b1f/pbtech_mounts/homes036/zss2002/.zbash/components/zbash-prompt.sh",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/0c909922-3669-425f-a211-02c783b22b1f/pbtech_mounts/homes036/zss2002/.zbash/components/zbash-comps.sh",
+		"/Users/zarek/Downloads/slurm.leu_gly-qsite_105-5.615848.615848.out",
+		"/Users/zarek/Downloads/leu_gly-qsite_105-5.in",
+		"/Users/zarek/Downloads/leu_gly-qsite_106-5.in",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/45ac91dc-8471-4a3e-9058-63df73ffc403/athena/mllab/store/zss2002/extract_qsite_log.py",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/0c909922-3669-425f-a211-02c783b22b1f/athena/mllab/store/zss2002/leut-f259/leu_gly-qsite/qsite-files/leu_gly-qsite_105-5.sh",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/0c909922-3669-425f-a211-02c783b22b1f/athena/mllab/store/zss2002/leut-f259/qsite_slurm.sh",
+		"/Users/zarek/Desktop/qsite_slurm.sh",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/0c909922-3669-425f-a211-02c783b22b1f/athena/mllab/store/zss2002/leut-f259/leu_apo-qsite/qsite-files/leu_apo-qsite_09-5.in",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/0c909922-3669-425f-a211-02c783b22b1f/athena/mllab/store/zss2002/leut-f259/leu_apo-qsite/qsite-files/leu_apo-qsite_08-5.in",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/0c909922-3669-425f-a211-02c783b22b1f/athena/mllab/store/zss2002/leut-f259/leu_apo-qsite/qsite-files/leu_apo-qsite_07-5.in",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/0c909922-3669-425f-a211-02c783b22b1f/athena/mllab/store/zss2002/leut-f259/leu_apo-qsite/qsite-files/leu_apo-qsite_06-5.in",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/0c909922-3669-425f-a211-02c783b22b1f/athena/mllab/store/zss2002/leut-f259/leu_apo-qsite/qsite-files/leu_apo-qsite_05-5.in",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/0c909922-3669-425f-a211-02c783b22b1f/athena/mllab/store/zss2002/leut-f259/leu_apo-qsite/qsite-files/leu_apo-qsite_04-5.in",
+		"/Users/zarek/Desktop/airtable_dex_20190508.py",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/0c909922-3669-425f-a211-02c783b22b1f/athena/mllab/store/zss2002/leut-f259/leu_apo-qsite/qsite-files/leu_apo-qsite_101-2.log",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/0c909922-3669-425f-a211-02c783b22b1f/athena/mllab/store/zss2002/leut-f259/leu_apo-qsite/qsite-files/leu_apo-qsite_04-1.in",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/0c909922-3669-425f-a211-02c783b22b1f/athena/mllab/store/zss2002/leut-f259/leu_apo-qsite/qsite-files/leu_apo-qsite_03-5.in",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/0c909922-3669-425f-a211-02c783b22b1f/athena/mllab/store/zss2002/leut-f259/leu_apo-qsite/qsite-files/leu_apo-qsite_04-5.graphs/scan_e_kcal_delta.png",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/0c909922-3669-425f-a211-02c783b22b1f/athena/mllab/store/zss2002/leut-f259/leu_apo-qsite/qsite-files/leu_apo-qsite_04-1.01.in",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/0c909922-3669-425f-a211-02c783b22b1f/athena/mllab/store/zss2002/leut-f259/leu_apo-qsite/qsite-files/leu_apo-qsite_101-2.out",
+		"/Users/zarek/Dropbox/ucsd/classes/spring_2019/200C/Quiz_Halgren_20190509.md",
+		"/Users/zarek/Desktop/kenti_phono_ortho.txt",
+		"/Users/zarek/Dropbox/ucsd/classes/spring_2019/Signal_Processing/HW2/SigProc_HW2/content.tex",
+		"/Users/zarek/Dropbox/notes/2019-04-05 23.05.14.mmd",
+		"/Users/zarek/Dropbox/cocolex/cocolex.v4.md",
+		"/Users/zarek/Dropbox/cocolex/cocolex.md",
+		"/Users/zarek/Dropbox/cocolex/cocolex.v3.md",
+		"/Users/zarek/Desktop/cocolex.md",
+		"/Users/zarek/Desktop/tqgscratch.py",
+		"/Users/zarek/Desktop/ipynb_remoting.sh",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/8bb507aa-5ed7-4216-822a-a3e821db04af/mnt/cube/zarek/AVGN-master/notebooks/birdsong/cassins_vireo_example/BIRD_DB.xls",
+		"/Users/zarek/Dropbox/ucsd/classes/winter_2019/Basic_Neuroscience/Quiz_2/references.bib",
+		"/Users/zarek/Dropbox/ucsd/classes/winter_2019/Basic_Neuroscience/Quiz_2/Quiz_2.tex",
+		"/Users/zarek/Dropbox/ucsd/classes/winter_2019/Biophysics/HW3/Biophysics_HW3/compile.sh",
+		"/Users/zarek/Dropbox/ucsd/classes/winter_2019/Biophysics/Biophysics_HW1/content.tex",
+		"/Users/zarek/Dropbox/code/python/scratch_20190215_1415.py",
+		"/private/var/folders/sl/tvj9vrbd19l4kdg24bx41hr80000gn/T/b3a865ef-5b15-4f73-bb12-c20ef354bf7b/local/home/zssiegel/du_fmt.py",
+		"/Users/zarek/Downloads/HW2.R",
+		"/Users/zarek/Downloads/open-ephys-mac/README.md",
+		"/Users/zarek/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/zarek/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/zarek/Desktop/lfm_loved.py",
+		"/Users/zarek/Dropbox/code/python/zlfm_180303/zlfm_180303.py",
+		"/Users/zarek/Dropbox/ucsd/classes/winter_2019/Neuroanatomy/midterm_studyguide_20190204.md",
+		"/Users/zarek/Downloads/University_of_California,_San_Diego_seal.svg",
+		"/Users/zarek/Dropbox/ucsd/classes/2019_winter/Biophysics/Biophysics_HW1/content.tex",
+		"/Users/zarek/Dropbox/ucsd/classes/2019_winter/Basic_Neuroscience/Quiz_1/content.tex"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 120.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 28.0
+	},
+	"pinned_build_system": "Packages/MarkdownPreview/Markdown.sublime-build",
+	"project": "zcovid.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

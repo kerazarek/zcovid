@@ -2,7 +2,7 @@
 
 
 def main():
-¿
+
     import sys
 
     print(sys.stdin.read())
